@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "echo 'Please use `vercel dev` to start the server'"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
